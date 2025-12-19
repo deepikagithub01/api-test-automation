@@ -1,0 +1,11 @@
+{
+"name": "ai-assisted-api-testing",
+"version": "1.0.0",
+"description": "AI-assisted API test automation using Cypress",
+"scripts": {
+"test": "cypress run"
+},
+"devDependencies": {
+"cypress": "^13.0.0"
+}
+}
